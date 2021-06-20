@@ -5,11 +5,11 @@ Prototype is a video-game project playable on terminal. I started this project a
 
 Why is it wrote in French?
 -----------
-*'coz I'm French. The code/comments are in English in order to be understandable for everyone but the texts are in French for the moment (a translation in English is planned if I have requests).*
+'coz I'm French. The code/comments are in English in order to be understandable for everyone but the texts are in French for the moment (a translation in English is planned if I have requests).
 
 How do you play at Prototype?
 -----------
-*This is very easy : the program display something, you write a command and the programm display something else, depending of the command. This seem very basic (and it is) but with immagination we can do something cool.*
+This is very easy : the program display something, you write a command and the programm display something else, depending of the command. This seem very basic (and it is) but with immagination we can do something cool.
 
 Some randoms why :
 -----------
