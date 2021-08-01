@@ -1,28 +1,81 @@
-O------------------------------------------------------------------------O
-|         .   ___     ___  § Pour rappel vous vous êtes réveillé(e) dans |
-|   /\    |  |   \   |     § un monde qui vous est parfaitement inconnu. |
-|  /__\   |  |    |  |--   § Vous avez décidé d'explorer les environs    |
-| /    \  |  |___/   |___  § pour comprendre ce qui vous est arrivé et   |
-|                          § sortir de là. Pour cela vous pouvez entrer :|
-|                                                                        |
-|                                                                        |
-|                                                                        |
-|                                                                        |
-| -------------                                                          |
-| inspecter    : Permet d'inspecter l'endroit où l'on est.               |
-| nord         : Permet d'aller vers le nord.                            |
-| sud          : Permet d'aller vers le sud.                             |
-| est          : Permet d'aller vers l'est.                              |
-| ouest        : Permet d'aller vers l'ouest.                            |
-| quitter      : Quitte le jeu (ATTENTION, la progression sera perdue)   |
-| -------------                                                          |
-| Certaines commandes sont trouvables en cherchant bien et peuvent être  |
-| utilisées plus tard dans l'aventure. Si vous êtes bloqué(e) rappelez-  |
-| vous que chaque détail possède son importance.                         |
-O------------------------------------------------------------------------O
+║                                                                        ║
+║                      Entrez start pour commencer.                      ║
+║                                                                        ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 
-| * Vous voilà arrivé(e) sur Encelade. Il fait froid, que de la glace à  |
-|   l'horizon, mais vous sentez tout de même une présence pesante.       |
-| * Vous décidez d'admirer un levé de Saturne ; ce n'est pas tous les    |
-|   jours que l'on voit ça sur Terre !                          suite -> |
-O------------------------------------------------------------------------O
+║                                                                        ║
+║                  Merci d'entrer start pour commencer.                  ║
+║                                                                        ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+║                                                                        ║
+║                   * Vous ne pouvez pas faire ça ici.                   ║
+║                                                                        ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════╦═════════════════════════════════════════════╗
+║         .   ___     ___  ║ Pour rappel vous vous êtes réveillé(e) dans ║
+║   /\    |  |   \   |     ║ un monde qui vous est parfaitement inconnu. ║
+║  /__\   |  |    |  |--   ║ Vous avez décidé d'explorer les environs    ║
+║ /    \  |  |___/   |___  ║ pour comprendre ce qui vous est arrivé et   ║
+║                          ║ sortir de là.                               ║
+╟──────────────────────────╨─────────────────────────────────────────────╢
+║ LISTE DES COMMANDES :                                                  ║
+║                                                                        ║
+║ inspecter    : Permet d'inspecter l'endroit où l'on est.               ║
+║ nord         : Permet d'aller vers le nord.                            ║
+║ sud          : Permet d'aller vers le sud.                             ║
+║ est          : Permet d'aller vers l'est.                              ║
+║ ouest        : Permet d'aller vers l'ouest.                            ║
+║ quitter      : Quitte le jeu (ATTENTION, la progression sera perdue)   ║
+╟────────────────────────────────────────────────────────────────────────╢
+║ Certaines commandes sont trouvables en cherchant bien et peuvent être  ║
+║ utilisées seulement dans certains cas. Si vous êtes bloqué(e) souvenez ║
+║ vous que chaque détail possède son importance.                         ║
+║                                                                        ║
+║ <- retour                     1/2                             suite -> ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════╦═════════════════════════════════════════════╗
+║         .   ___     ___  ║ Pour entrer une commande, écrivez la et     ║
+║   /\    |  |   \   |     ║ appuyez sur Entrée.                         ║
+║  /__\   |  |    |  |--   ║                                             ║
+║ /    \  |  |___/   |___  ║                                             ║
+║         (suite)          ║                                             ║
+╟──────────────────────────╨─────────────────────────────────────────────╢
+║ LISTE DES COMMANDES (suite) :                                          ║
+║                                                                        ║
+║ inventaire   : Affiche l'inventaire.                                   ║
+║ carte        : Affiche la carte du monde.                              ║
+║ sauver       : Sauvegarde la progression.                              ║
+║ lampe        : Utilise la lampe (fonctionne avec tout objet possédé).  ║
+║                                                                        ║
+║                                                                        ║
+╟────────────────────────────────────────────────────────────────────────╢
+║ Pour ramasser un objet il suffit d'entrer son nom dans la salle où il  ║
+║ apparaît, ce qui le placera automatiquement dans l'inventaire. Répétez ║
+║ ensuite l'opération pour l'utiliser.                                   ║
+║                                                                        ║
+║ <- retour                     2/2                                      ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+║ * Vous voilà arrivé(e) sur Encelade. Il fait froid, que de la glace à  ║
+║   l'horizon, mais vous sentez tout de même une présence pesante.       ║
+║ * Vous décidez d'admirer un levé de Saturne ; ce n'est pas tous les    ║
+║   jours que l'on voit ça sur Terre !                          suite -> ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+║ * Vous discernez à l'est une structure prismatique arborant une faible ║
+║   lueur bleuâtre.                                                      ║
+║ * En bas de cette structure il y a des sortes de bâtiments. Serait-ce  ║
+║   une colonie extraterrestre ?                                suite -> ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+║ * Voix ambiguë d'un cœur qui au zéphyr préfère les jattes de kiwis.    ║
+║ * Texte de debug pour tester des trucs                                 ║
+║ * Mes pâtes préférées ? Hmmm j'hésite ; les penne sont pas mal mais on ║
+║   a aussi les crosets dans notre beau pays qu'est la France !          ║
+╚════════════════════════════════════════════════════════════════════════╝
